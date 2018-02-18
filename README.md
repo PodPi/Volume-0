@@ -27,7 +27,7 @@ three colors, you can make new colors.  Use a piece of white printer paper to di
 the light to see additional colors, like yellow, purple or teal.
 
 ### Experiment - The pulse() method
-`pulse.js`: Experiment with this additional script. Thepulse method will blink an
+`rgb_pulse.js`: Experiment with this additional script. Thepulse method will blink an
 LED with a fade in and fade out effect.  Note, that you are restricted on which pins
 you can use for this experiment.  Only PWM pins (more on PWM in PodPi Volume 9) can 
 be used with the `pulse()` method.  Connect your RGB LED to either pin 3, 5, 6, 9, 10 or 11.
